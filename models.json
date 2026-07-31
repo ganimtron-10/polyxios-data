@@ -9,6 +9,38 @@
     "xml": "dolfin"
   },
   "formats": {
+    "abaqus": {
+      "UUea.inp": {
+        "sha256": "0263bf32e6bd93bbdaf9fe0ff531aaad9ac9af8722100ef8f92813f8c2ccdb3b",
+        "size_bytes": 7338,
+        "size_pretty": "7.2 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/abaqus/UUea.inp"
+      },
+      "beam-buckl_calculix.inp": {
+        "sha256": "f92e67c252615a2b1a8a6d7e35b83babc6ae5236c6a0d0ae518bf50a03fdc7c4",
+        "size_bytes": 2215,
+        "size_pretty": "2.2 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/abaqus/beam-buckl_calculix.inp"
+      },
+      "element_elset.inp": {
+        "sha256": "f6f96eed6f4ceb1160c52ff45131762c979e212e1bd7e2776999e574efc2e863",
+        "size_bytes": 216,
+        "size_pretty": "216 B",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/abaqus/element_elset.inp"
+      },
+      "nle1xf3c.inp": {
+        "sha256": "2d8bc83d571066e10faac3fe9b43d1c91d02ec6ab89903f479e0d3546a7cc424",
+        "size_bytes": 1850,
+        "size_pretty": "1.8 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/abaqus/nle1xf3c.inp"
+      },
+      "timber_modal_calculix.inp": {
+        "sha256": "80b4bc552e6c09e3c87fe6ba2132d7c72377def305253291141bb164b083aee5",
+        "size_bytes": 3370,
+        "size_pretty": "3.3 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/abaqus/timber_modal_calculix.inp"
+      }
+    },
     "obj": {
       "alligator.obj": {
         "sha256": "108a1f4319e4a069b2bfbee3b5f278551501d75c473bb705c62e2bef872ad544",

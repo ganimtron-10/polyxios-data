@@ -13,12 +13,14 @@ Test data for [polyxios](https://github.com/fury-gl/polyxios) codec integration 
 
 | Format Release | Format | Files | Size |
 |----------------|--------|-------|------|
+| `abaqus` | ABAQUS | 5 | 14.6 KB |
 | `obj` | OBJ | 34 | 112.0 MB |
 
 ### Model Names Catalog
 <details>
 <summary><b>Show all models...</b></summary>
 
+- **abaqus**: `UUea.inp`, `beam-buckl_calculix.inp`, `element_elset.inp`, `nle1xf3c.inp`, `timber_modal_calculix.inp`
 - **obj**: `alligator.obj`, `armadillo.obj`, `ateneam.obj`, `beast.obj`, `beetle-alt.obj`, `beetle.obj`, `bimba.obj`, `cheburashka.obj`, `cow.obj`, `elepham.obj`, `elephav.obj`, `fandisk.obj`, `happy.obj`, `homer.obj`, `horse.obj`, `igea.obj`, `lucy.obj`, `max-planck.obj`, `mba1.obj`, `mba2.obj`, `mni-surface-mesh.obj`, `nefertiti.obj`, `ogre.obj`, `rocker-arm.obj`, `spot.obj`, `stanford-bunny.obj`, `star-wars-vader-tie-fighter.obj`, `suzanne.obj`, `teapot.obj`, `tree.obj`, `utah_teapot.obj`, `venusm.obj`, `woody.obj`, `xyzrgb_dragon.obj`
 
 </details>
