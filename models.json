@@ -1,0 +1,219 @@
+{
+  "ext_to_package": {
+    "f3grid": "flac3d",
+    "fem": "nastran",
+    "inp": "abaqus",
+    "meshb": "medit",
+    "tec": "tecplot",
+    "vol": "netgen",
+    "xml": "dolfin"
+  },
+  "formats": {
+    "obj": {
+      "alligator.obj": {
+        "sha256": "108a1f4319e4a069b2bfbee3b5f278551501d75c473bb705c62e2bef872ad544",
+        "size_bytes": 200723,
+        "size_pretty": "196.0 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/alligator.obj"
+      },
+      "armadillo.obj": {
+        "sha256": "d2fd040334c12b16804fbcb9962391232cc24708244617f931baaa871210563e",
+        "size_bytes": 4634780,
+        "size_pretty": "4.4 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/armadillo.obj"
+      },
+      "ateneam.obj": {
+        "sha256": "5c698eb047ff07b08ef9a11aa9c309e6eb95b4b182b3f4c4ee133a78b925a166",
+        "size_bytes": 1089080,
+        "size_pretty": "1.0 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/ateneam.obj"
+      },
+      "beast.obj": {
+        "sha256": "74c5fecd883b761bc1b2bb6c82fe94d3b3b450297ab561e83c0e63c7ed46abe8",
+        "size_bytes": 3334529,
+        "size_pretty": "3.2 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/beast.obj"
+      },
+      "beetle-alt.obj": {
+        "sha256": "4528700590e20363b27e8ab77a4af6199a59b94ab6b849c9ba5a4a36f7c5b8cd",
+        "size_bytes": 1361270,
+        "size_pretty": "1.3 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/beetle-alt.obj"
+      },
+      "beetle.obj": {
+        "sha256": "46ee9dcbec84b8d1b8f0d743ab1c91b1ed81378672fc0516e7afff5172d7c9b7",
+        "size_bytes": 124863,
+        "size_pretty": "121.9 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/beetle.obj"
+      },
+      "bimba.obj": {
+        "sha256": "5e2beb15d8f5852383eb44a95f227097e3037b2e7a3e3ea1494931fd7c3b1e72",
+        "size_bytes": 7990636,
+        "size_pretty": "7.6 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/bimba.obj"
+      },
+      "cheburashka.obj": {
+        "sha256": "b2ac59bc1112f1b3e086ac0285d9be7fdefef278a32151a79e650414b2244f3f",
+        "size_bytes": 422829,
+        "size_pretty": "412.9 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/cheburashka.obj"
+      },
+      "cow.obj": {
+        "sha256": "37b72a06f93b68dc2c9035d7bbfa7d2f299d48ca9a6357cff6913980ef119eb6",
+        "size_bytes": 326919,
+        "size_pretty": "319.3 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/cow.obj"
+      },
+      "elepham.obj": {
+        "sha256": "3c8a6c596e04af756de504d0809926396b6e9324c6a4a54a86211ee115bd49a8",
+        "size_bytes": 2971903,
+        "size_pretty": "2.8 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/elepham.obj"
+      },
+      "elephav.obj": {
+        "sha256": "863bb0ad077f2af5c05e70338b9a2643c840208d26984141c731e95b7bcc1b6a",
+        "size_bytes": 76928,
+        "size_pretty": "75.1 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/elephav.obj"
+      },
+      "fandisk.obj": {
+        "sha256": "ea5bab2fbf545b1915f0d9faf6cc61ff8c18e0d8174ad61f8e35de15d8f6e3f8",
+        "size_bytes": 379559,
+        "size_pretty": "370.7 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/fandisk.obj"
+      },
+      "happy.obj": {
+        "sha256": "8ce5a4a7161efd97dabc8eeb281824fac1b17c9ba2cb0c2c6f350cd05982058c",
+        "size_bytes": 4648727,
+        "size_pretty": "4.4 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/happy.obj"
+      },
+      "homer.obj": {
+        "sha256": "b20b1391fd62964f65703d748514d86d747d1202d38e55e0f1addac7a5a10e8b",
+        "size_bytes": 369782,
+        "size_pretty": "361.1 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/homer.obj"
+      },
+      "horse.obj": {
+        "sha256": "d2e1beaa7e366b61746192345f552f09056c97bbd096cb31eac4b9fe467fa7aa",
+        "size_bytes": 4818311,
+        "size_pretty": "4.6 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/horse.obj"
+      },
+      "igea.obj": {
+        "sha256": "13dd57979295049c73830313772c379da4508e035551921686e2edc7de9bff0e",
+        "size_bytes": 9593281,
+        "size_pretty": "9.1 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/igea.obj"
+      },
+      "lucy.obj": {
+        "sha256": "ea54611a3466bc903a107fd825409344562b8c4a8f191bbdc88ce380bebd0911",
+        "size_bytes": 4664191,
+        "size_pretty": "4.4 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/lucy.obj"
+      },
+      "max-planck.obj": {
+        "sha256": "282b278f40cbf6f6054e95d9b7704e51f49c7a2c8d74a2d6977412e6f455ef06",
+        "size_bytes": 4573334,
+        "size_pretty": "4.4 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/max-planck.obj"
+      },
+      "mba1.obj": {
+        "sha256": "d039765a36f6fc4f0ac25d806433a8d0175cb9811f7f2647608c555d88fed1e5",
+        "size_bytes": 13898803,
+        "size_pretty": "13.3 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/mba1.obj"
+      },
+      "mba2.obj": {
+        "sha256": "d6642a14c4d411f2381f7f056baed0aeec58784dfcde834cca4e0f7ffe8a9822",
+        "size_bytes": 11599709,
+        "size_pretty": "11.1 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/mba2.obj"
+      },
+      "mni-surface-mesh.obj": {
+        "sha256": "9bf3d84fdf4bac566b45bb6b4dabb23099d93bd5a1c3476e89ad8ddf97c02194",
+        "size_bytes": 129191,
+        "size_pretty": "126.2 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/mni-surface-mesh.obj"
+      },
+      "nefertiti.obj": {
+        "sha256": "19e39748b145092878cc4faafd050505eb5991c5d3e497be2b4575673fa87968",
+        "size_bytes": 3660678,
+        "size_pretty": "3.5 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/nefertiti.obj"
+      },
+      "ogre.obj": {
+        "sha256": "b72e270246ec3bd91bd8e082c4acf462352680f09067813322903b4e1a3f6967",
+        "size_bytes": 3723236,
+        "size_pretty": "3.6 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/ogre.obj"
+      },
+      "rocker-arm.obj": {
+        "sha256": "590257e6d01e689354821d807854306c3bfbb02d9cca73404d5a4924f105c287",
+        "size_bytes": 665711,
+        "size_pretty": "650.1 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/rocker-arm.obj"
+      },
+      "spot.obj": {
+        "sha256": "0738b5e8608fed74e5e8c7aa8dd0af97b4b74f9f6cbf7aac84cd7e40b2e44a75",
+        "size_bytes": 330624,
+        "size_pretty": "322.9 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/spot.obj"
+      },
+      "stanford-bunny.obj": {
+        "sha256": "1eb35d1e21ce99e5ce911353b6be278990713448dd9e8f5c9387f9de39b32205",
+        "size_bytes": 2408417,
+        "size_pretty": "2.3 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/stanford-bunny.obj"
+      },
+      "star-wars-vader-tie-fighter.obj": {
+        "sha256": "595637d02489497885078e60990ee311e70e699882fac1ab7bf3ac2d2f729947",
+        "size_bytes": 11433883,
+        "size_pretty": "10.9 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/star-wars-vader-tie-fighter.obj"
+      },
+      "suzanne.obj": {
+        "sha256": "d8684326f9bd8cfc24d3d302c1042fa16f63d2e66e49ed56b413fa20bed271e6",
+        "size_bytes": 49137,
+        "size_pretty": "48.0 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/suzanne.obj"
+      },
+      "teapot.obj": {
+        "sha256": "1b5396fedd74b577e32cef41146582c2f2e1a050d5b4915193c0ac1ad4187ed4",
+        "size_bytes": 210614,
+        "size_pretty": "205.7 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/teapot.obj"
+      },
+      "tree.obj": {
+        "sha256": "8981e33746771778643a7479d4591da4dcdb59498703c2dacb8395129b8d3538",
+        "size_bytes": 125161,
+        "size_pretty": "122.2 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/tree.obj"
+      },
+      "utah_teapot.obj": {
+        "sha256": "45bd6f962ad4fcf406da8ca2cfc3cc123934595074987298df0db0a74781d4a3",
+        "size_bytes": 2591232,
+        "size_pretty": "2.5 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/utah_teapot.obj"
+      },
+      "venusm.obj": {
+        "sha256": "1feb7d058e86ab69869f762f14e79b21ae54d129ea12cf7f99cac740a324d737",
+        "size_bytes": 3221966,
+        "size_pretty": "3.1 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/venusm.obj"
+      },
+      "woody.obj": {
+        "sha256": "8f9c1657fd4ed2e5d5cc0f65ae35ff49d338cf09ae51f57c496353c0b2c53209",
+        "size_bytes": 40046,
+        "size_pretty": "39.1 KB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/woody.obj"
+      },
+      "xyzrgb_dragon.obj": {
+        "sha256": "5d7106b58f2ac0d017758480fe607c5b6bf7d6201d930d2dd1ba7022c4d281c0",
+        "size_bytes": 11817802,
+        "size_pretty": "11.3 MB",
+        "url": "https://github.com/ganimtron-10/polyxios-data/releases/download/obj/xyzrgb_dragon.obj"
+      }
+    }
+  }
+}
